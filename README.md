@@ -10,7 +10,7 @@ I'm a freshman at JHU exploring software, robotics, and embedded systems.
 - Ship more projects instead of just starting them 🙂
 
 ### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+![My GitHub Metrics](github-metrics.svg)
 ![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
 
 ### 🌱 Learning
