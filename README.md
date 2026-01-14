@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Nikhil
 
-<!--
-**Nikhil-Mani/Nikhil-Mani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student exploring software, robotics, and embedded systems.
 
-Here are some ideas to get you started:
+### 🔧 What I'm Working On
+- ESP32 + sensor projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Goals
+- Build robotics and AI skills
+- Ship more projects instead of just starting them 🙂
+
+### 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+### 🌱 Learning
+C++ • Embedded systems • Robotics
+
+---
+
+Feel free to reach out if you’re working on something cool!
+
+
