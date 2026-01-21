@@ -7,7 +7,6 @@ I'm a freshman at JHU exploring software, robotics, and embedded systems.
 
 ### 🚀 Goals
 - Build robotics and AI skills
-- Ship more projects instead of just starting them 🙂
 
 ### 📈 GitHub Stats
 ![My GitHub Metrics](github-metrics.svg)
