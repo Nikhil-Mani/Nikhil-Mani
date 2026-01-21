@@ -2,18 +2,23 @@ name: Generate Metrics
 
 on:
   schedule:
-    - cron: '0 5 * * *' # daily at 05:00 UTC
+    - cron: "0 5 * * *" # daily at 05:00 UTC
   push:
     branches:
       - main
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: lowlighter/metrics-embed@latest
+
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          # optional: set templates/plugins here if needed
+          filename: github-metrics.svg
