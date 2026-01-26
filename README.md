@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikhil
 
-I'm a freshman at JHU exploring software, robotics, and embedded systems.
+I'm a freshman at JHU learning about embedded systems and robotics.
 
 ### 🔧 What I'm Working On
 - ESP32 + sensor projects  
