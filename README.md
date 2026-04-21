@@ -10,7 +10,7 @@ I'm a freshman at JHU learning about embedded systems and robotics.
 
 ### 📈 GitHub Stats
 ![My GitHub Metrics](github-metrics.svg)
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![Streak](https://streak-stats.demolab.com?user=Nikhil-Mani)
 
 ### Learning
 C++ • Embedded systems • Robotics
