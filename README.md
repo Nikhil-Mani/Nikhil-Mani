@@ -1,12 +1,6 @@
 # Hi, I'm Nikhil
 
-I'm a freshman at JHU learning about embedded systems and robotics.
-
-### 🔧 What I'm Working On
-- ESP32 + sensor projects  
-
-### Goals
-- Build robotics and AI skills
+I'm a sophomore at JHU interested in robotics.
 
 ### 📈 GitHub Stats
 ![My GitHub Metrics](github-metrics.svg)
